@@ -40,7 +40,6 @@ Most people track this in a messy spreadsheet or not at all, and notice problems
 
 ## Screenshots
 
-<!-- Add screenshots to a /screenshots folder and link them here -->
 | Overview | Limit tracking |
 |---|---|
 | ![Overview](screenshots/overview.png) | ![Limit](screenshots/limit.png) |
