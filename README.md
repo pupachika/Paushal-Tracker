@@ -1,3 +1,4 @@
+
 # Paušalac Tracker: Excel workbook for flat-rate entrepreneurs in Serbia
 
 A ready-to-use Excel workbook for tracking income, the annual turnover limit, monthly tax and contributions, and profit for a **paušalac** (flat-rate taxed sole proprietor) in Serbia. No macros, no add-ins: only formulas, data validation, conditional formatting and charts, so it works in Excel and LibreOffice.
